@@ -1,12 +1,17 @@
 #CodeBook
+
 This is a code book that describes the variables, the data, and any transformations or work that performed to create a tidy data set.
+
 Data source and Description:
-	•	data Set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-	•	Full Description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+	*	data Set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+	*	Full Description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 #Data set info:
+
 The dataset includes the following files:
-	•	
+
+		
 	•	 'README.txt'
 	•	'features_info.txt': Shows information about the variables used on the feature vector.
 	•	- 'features.txt': List of all features.
